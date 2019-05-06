@@ -15,3 +15,32 @@
 ---
 
 * A navbar in order to navigate between these two pages 
+
+
+
+
+# [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+| coucou | test |   |   |   |
+|--------|------|---|---|---|
+|        |      |   |   |   |
+|        |      |   |   |   |
+|        |      |   |   |   |
+
+
+![hello](https://media.giphy.com/media/lcySndwSDLxC4eOU86/giphy.gif)
+
+[link](http://wildcodeschool.com)
+
+# h1 
+## h2 
+### h3 
+###### h6
+
+*
+* 
+* 
+    *
+    *
+        *
+        *
