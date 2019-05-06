@@ -1,9 +1,9 @@
 # Exercise 
 
-* Create a FormContainer component 
-* Create 2 input components in it 
-* Create a submit button 
-* On submit -> Check if the fields have text in it 
+* Create a FormContainer component : DONE
+* Create 2 input components in it : DONE
+* Create a submit button : DONE
+* On submit -> Check if the fields have text in it : DONE  
 * Post (fetch) the content of the form 
 
 --- 
