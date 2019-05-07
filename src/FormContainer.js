@@ -3,6 +3,9 @@ import React, { Component } from 'react'
 
 export default class FormContainer extends Component {
 
+    static bye(){
+
+    }
 
     constructor(props) {
         super(props);

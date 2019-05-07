@@ -9,7 +9,7 @@
 --- 
 
 * Create a second component Posts 
-* Fetch (when the component is mounted) 
+* Fetch (when the component is mounted) : https://jsonplaceholder.typicode.com/posts 
 * With the time (updated every second)
 
 ---
